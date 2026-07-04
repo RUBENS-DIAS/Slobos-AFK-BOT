@@ -8,7 +8,7 @@
   "server": {
     "ip": "RUBCRAFT.aternos.me",
     "port": 45030,
-    "version": "26.2 "
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
